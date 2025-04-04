@@ -17,7 +17,7 @@ cd handwritten-digit-recognition
 ### **2. Install Dependencies**
 Ensure you have Python installed, then install the required libraries:
 ```bash
-pip install tensorflow numpy matplotlib opencv-python
+pip install tensorflow numpy matplotlib
 ```
 
 ## Usage
