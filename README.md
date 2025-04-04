@@ -1,13 +1,12 @@
 # Handwritten Digit Recognition using CNN
 
-This project is a **Handwritten Digit Recognition** system using **Convolutional Neural Networks (CNNs)**. It is implemented using **TensorFlow, Keras, and OpenCV**, and supports real-time digit recognition via a webcam.
+This project is a **Handwritten Digit Recognition** system using **Convolutional Neural Networks (CNNs)**. It is implemented using **TensorFlow and Keras**.
 
 ## Features
 - **Trains a CNN model** on the MNIST dataset.
 - **Evaluates the model's accuracy** on test data.
 - **Visualizes training history** using Matplotlib.
 - **Displays sample predictions** from the test dataset.
-- **Supports real-time digit recognition** using OpenCV and a webcam.
 
 ## Installation
 ### **1. Clone the Repository**
